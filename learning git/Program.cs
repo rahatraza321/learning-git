@@ -8,6 +8,7 @@ namespace learning_git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Login git");
+            Console.WriteLine("new branch git");
         }
     }
 }
