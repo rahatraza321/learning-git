@@ -7,6 +7,7 @@ namespace learning_git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Login git");
         }
     }
 }
